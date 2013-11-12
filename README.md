@@ -7,9 +7,9 @@
  - Highly skilled in developing web pages using HTML and CSS
  - Highly skilled in creating dynamic web pages using jQuery
  - Great experience in using git
- - Experience in programming PHP, C, Visual C++, Visual Basic, Delphi, Pascal
+ - Experience in programming PHP, C, Visual C++, Visual Basic, Delphi, Pascal, Bash
  - Basic experience in using OPC, WinAPI, MFC, Sockets, DirectShow
- - Basic knowledge of Python, Perl, Bash; OS FreeBSD, QNX, OS/2, DOS; svn, fossil-scm
+ - Basic knowledge of Python, Perl; OS FreeBSD, QNX, OS/2, DOS; svn, fossil-scm
  - Can understand most programming languages
  - Great experience in using PCs
  - Highly skilled in fixing PCs
@@ -47,7 +47,7 @@ Freelancer, January 2007 - April 2007
 Software Engineer, May 2006 - December 2006
 
  - support of Industrial control system «Pyramid» components
- - develop applications using Vidual C++, Visual Basic for
+ - develop applications using Visual C++, Visual Basic for
    configuration and serving microcontrollers using OPC and ModBus protocol
  - develop applications for visualising technical data
  - support and engineer MS SQL database structure for storing data of
@@ -79,14 +79,14 @@ Computer Engineer, Summer of 2001, 2002, 2003
 #### Education
 
 Udmurt State Univercity, Faculty of Physics, Cathedra of Mathematical Science  
-BS Information Scientist, 1999 - 2004
+BS Computer Scientist, 1999 - 2004
 
-Speciality in "Information systems in adminestering". Diploma project
-"Automated work bench for researching complex valued functional-differential equasions".
-Listened disciplines: mathematical analisys, algebra and geometry, mathematical methods
-of calculation, theory of probability and statistics, differential equasions,
-data structures, information science, basics of translations, theory of algorythms,
-information security, architecture of information systems, other.
+Speciality in "Computer Science in Business". Diploma project
+"Automated Work Bench for Researching Complex Valued Functional-Differential Equasions".
+Listened disciplines: Mathematical Analisys, Algebra and Geometry, Mathematical Methods
+of Calculation, Theory of Probability and Statistics, Differential Equasions,
+Data Structures, Information Science, Basics of Interpretation, Theory of Algorythms,
+Information Security, Architecture of Information Systems, other.
 
 Incomplete Сriminal Law Degree, 1999 - 2003  
 Middle school 77,78, High school 56, 41  
@@ -101,4 +101,3 @@ Participated in mathematics, physics, informatics contests.
 
  - phone: +7(912)7561434
  - e-mail: ujifgc@gmail.com
- - skype: ujifgc
