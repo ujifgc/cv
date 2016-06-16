@@ -2,19 +2,19 @@
 
 #### Professional skills
 
- - Highly skilled in programming Ruby, JavaScript
- - Highly skilled in using Sinatra, Ruby on Rails, Merb frameworks
+ - Highly skilled in programming in Ruby, JavaScript
+ - Highly skilled in using Sinatra, Padrino, Ruby on Rails, Merb web frameworks
  - Highly skilled in developing web pages using HTML and CSS
  - Highly skilled in creating dynamic web pages using jQuery
  - Great experience in using git
  - Experience in programming PHP, C, Visual C++, Visual Basic, Delphi, Pascal, Bash
- - Basic experience in using OPC, WinAPI, MFC, Sockets, DirectShow
+ - Basic experience in using WinAPI, MFC, Sockets, DirectShow
  - Basic knowledge of Python, Perl; OS FreeBSD, QNX, OS/2, DOS; svn, fossil-scm
  - Can understand most programming languages
- - Great experience in using PCs
- - Highly skilled in fixing PCs
+ - Great experience in using PC
+ - Highly skilled in fixing PC
  - Can install, configure, support OS Linux, OS Windows (2003/2000/XP/NT4/9x)
- - Can construct, configure, support networks of OS Linux, OS Windows (Domain)
+ - Can configure, support networks of OS Linux, OS Windows (Domain)
  - Can install, configure any computer applications
  
 #### Employment history
@@ -24,19 +24,19 @@ Lead Software Developer, May 2007 - present
 
  - develop web pages using HTML, CSS, JavaScript, AJAX
  - develop database interfaces for MySQL, MS SQL, Firebird
- - program web sites using Sinatra, Ruby on Rails, writing ruby gems
- - program web sites using CMS swift.engine, writing PHP
- - program information dashboard for UdSU employee list on Ruby using
-   Merb framework
+ - program web sites using Sinatra, Ruby on Rails, develop ruby gems
+ - program web sites using CMS swift.engine, fixing PHP code
+ - program information dashboard for UdSU employee list using Merb framework
  - support network of Windows 2003 with Debian Linux and Windows clients
  - support Debian Linux web servers
 
 Major accomplishments
 
+ - one of the lead developers of Padrino framework
  - database web interfaces for State Record Office using Padrino framework
  - regional newspaper web site using Ruby on Rails 3
- - several web sites using Ruby Swift CMS on Padrino framework
- - a lot of web sites using PHP swift.engine CMS and wide range of techniques
+ - several web sites using Ruby Swift CMS based on Padrino framework
+ - several web sites using PHP swift.engine CMS and wide range of web techniques
 
 Self-employed  
 Freelancer, January 2007 - April 2007
@@ -99,5 +99,5 @@ Participated in mathematics, physics, informatics contests.
  
 #### Contact information
 
- - phone: +7(912)7561434
+ - phone: +7 912 756 1434
  - e-mail: ujifgc@gmail.com
